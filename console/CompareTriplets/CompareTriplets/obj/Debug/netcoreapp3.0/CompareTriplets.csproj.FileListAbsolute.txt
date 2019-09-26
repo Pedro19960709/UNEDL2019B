@@ -1,0 +1,11 @@
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.exe
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.deps.json
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.runtimeconfig.json
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.runtimeconfig.dev.json
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.dll
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp3.0\CompareTriplets.pdb
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp3.0\CompareTriplets.csprojAssemblyReference.cache
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp3.0\CompareTriplets.AssemblyInfoInputs.cache
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp3.0\CompareTriplets.AssemblyInfo.cs
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp3.0\CompareTriplets.dll
+C:\Users\lenovo\UNEDL2019B\console\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp3.0\CompareTriplets.pdb
