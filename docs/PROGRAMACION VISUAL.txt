@@ -1,0 +1,33 @@
+2 parcial 21/10/2019 
+2.10 Herencia en c#
+la herencia es uno de los conceptos mas importantes de la programacion orientada a objetos.
+Herencia te permite definir una clase en terminos de otra clase lo cual permite crear y mantener una aplicacion de manera mas sencilla.
+herencia promueve el reuso del codigo y mejora el tiempo de implementacion.
+Ejemplo:
+class shape {
+public void setWidh(int w){
+width=w;
+}
+public void setHeight(int h){
+height=h;
+}
+protected int whidth;
+protected int height;
+
+//derived class
+
+class rectangle:shape{
+
+public int getArea()
+{
+return (whidth*height);
+}
+
+Tarea 
+crar una class que se llame familia;
+
+23/10/2019
+delegacion y eventos 
+ejercicio de los delegados 
+using delegados en tutorialspoint
+hacer un ejercicio pedir al usuario 5 numeros sumar esos numeros promedio de esos numeros y el numero mayor de esos numeros.
