@@ -1,0 +1,14 @@
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.exe.config
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.exe
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.pdb
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.csprojAssemblyReference.cache
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Form1.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Properties.Resources.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.csproj.GenerateResource.cache
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.exe
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.pdb
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.About.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.AboutBox1.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.PrintHelper.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.previewCredencial.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Registro.resources
