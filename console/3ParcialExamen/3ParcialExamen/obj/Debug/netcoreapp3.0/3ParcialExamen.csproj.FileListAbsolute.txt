@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.exe
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.deps.json
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.runtimeconfig.json
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.dll
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\bin\Debug\netcoreapp3.0\3ParcialExamen.pdb
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\obj\Debug\netcoreapp3.0\3ParcialExamen.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\obj\Debug\netcoreapp3.0\3ParcialExamen.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\obj\Debug\netcoreapp3.0\3ParcialExamen.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\obj\Debug\netcoreapp3.0\3ParcialExamen.dll
+C:\Users\lenovo\Desktop\Examen3Parcial\3ParcialExamen\3ParcialExamen\obj\Debug\netcoreapp3.0\3ParcialExamen.pdb
